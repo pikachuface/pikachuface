@@ -9,11 +9,10 @@
   - Unity
   - Blender
   - C++
-  - C 
   
   <br/>**Beginner**
   - JS
   - Node.js
-  
+  - C
   
 - ✉️ <a href="mailto:filipgajdusek1@gmail.com">Email</a>
