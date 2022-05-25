@@ -1,7 +1,7 @@
 # About me 👤
 - 🇨🇿 Nationality: Czech Republic
-- 🏫 High School: SSPŠ (4th year)
-- 🚀 Goals: graduate from ČVUT FIT, win FIKS
+- 🏫 High School: SSPŠ (*graduated 2022*)
+- 🚀 Goals: graduate from ČVUT FIT
 - 🔬 Technologies:
 
   <br/>**Intermidiate**
