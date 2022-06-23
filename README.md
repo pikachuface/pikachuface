@@ -1,18 +1,15 @@
 # About me 👤
 - 🇨🇿 Nationality: Czech Republic
 - 🏫 High School: SSPŠ (*graduated 2022*)
-- 🚀 Goals: graduate from ČVUT FIT
 - 🔬 Technologies:
 
-  <br/>**Intermidiate**
   - C#
   - Unity
   - Blender
   - C++
-  
-  <br/>**Beginner**
+  - C
   - JS
   - Node.js
-  - C
   
+- 💬 <a href="https://www.linkedin.com/in/filip-gajdusek/">LinkedIn</a>
 - ✉️ <a href="mailto:filipgajdusek1@gmail.com">Email</a>
