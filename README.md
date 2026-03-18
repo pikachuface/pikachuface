@@ -31,13 +31,14 @@ Rest of the server can be accesed only trough the VPN (or LAN)
 #### Public:
 - 🔐 Password manager: [Vaultwarden](https://github.com/dani-garcia/vaultwarden)
 - 💵 Finance manager: [Firefly III](https://www.firefly-iii.org/)
+- 📘 Obsidian Sync: [CouchDB](https://couchdb.apache.org/)
 #### Internal (VPN only):
 - 📊 Dashboard: _TBD_
 - 🐋 Docker manager: [Arcane](https://getarcane.app/)
 - 💾 Backup manager: [Backrest](https://garethgeorge.github.io/backrest/)
 - 🕹️ Game server: [Pterodactyl](https://pterodactyl.io/)
 - 📁 File browser: _TBD_
-- 📘 Obsidian Sync: [CouchDB](https://couchdb.apache.org/)
+
 
 
 ## Contact
